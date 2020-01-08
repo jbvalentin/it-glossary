@@ -3,24 +3,25 @@
 
 Acronym |Meaning |Context
 --------|--------|-------
-ACID|Atomicity, Consistency, Isolation, Durability| 
-AOP|Aspect-Oriented Programming| 
-APE|Arbortext Publishing Engine| 
-APP|Arboxtext Print Publisher| 
-ASCII|American Standard Code for Information Interchange| 
-ASIC|Application-Specific Integrated Circuit| 
+ACID|**A**tomicity, **C**onsistency, **I**solation, **D**urability| 
+AOP|**A**spect-**O**riented **P**rogramming| 
+APE|**A**rbortext **P**ublishing **E**ngine| 
+APP|**A**rboxtext **P**rint **P**ublisher| 
+ASCII|**A**merican **S**tandard **C**ode for **I**nformation **I**nterchange| 
+ASIC|**A**pplication-**S**pecific **I**ntegrated **C**ircuit| 
 
 # B
 
 Acronym |Meaning |Context
 --------|--------|-------
-BASE|Basic Availability, Soft state, Eventual Consistency (opposé à ACID)| 
-BBS|Be Back Soon|Chat
-BDD | Behaviour-Driven Development
-BI|Business Intelligence| 
+BASE|**B**asic **A**vailability, **S**oft state, **E**ventual **C**onsistency (as opposed to ACID)| 
+BBS|**B**e **B**ack **S**oon|Chat
+BDD |**B**ehaviour-**D**riven **D**evelopment|
+BI|**B**usiness **I**ntelligence| 
 Big data| | 
-BPM|Business Process Management <br>(gestion des processus métier) | 
-BTW|By The Way| 
+BPM|**B**usiness **P**rocess **M**anagement <br>(gestion des processus métier) | 
+BPMN|**B**usiness **P**rocess **M**anagement **N**otation|
+BTW|**B**y **T**he **W**ay| 
 
 
 # C
@@ -49,7 +50,8 @@ Acronym |Meaning |Context
 DDL|Data Definition Language| 
 DITA|Darwin(ian) Information Typing Architecture <br>http://dita.xml.org/standard | 
 DML|Data Manipulation Language| 
-DSL|Domain Specific Language| 
+DOM|**D**ocument **O**bject **M**odel |
+DSL|**D**omain **S**pecific **L**anguage| 
 DTP|DeskTop Publication <br> (fr) PAO| 
 
 
@@ -155,7 +157,7 @@ Acronym |Meaning |Context
 MDM|Master Data Management| 
 MITM|Man-In-The-Middle| 
 MOOC|Massive Open Online Courses| 
-MoSCoW|Must / Should / Could / Won't| 
+MoSCoW|**M**ust / **S**hould / **C**ould / **W**on't (or **W**ould)| 
 MVC|Model-View-Controller| 
 MVVM|Model-View-ViewModel| 
 MVW|Model-View-Whatever| 
@@ -236,7 +238,7 @@ SSO|Single Sign-On|
 StAX|Streaming API for XML| 
 StratML|Strategy Markup Language (http://xml.fido.gov/stratml/index.htm)| 
 SWOT|Strengths, Weaknesses, Opportunities, Threats| 
-SysML|System Modeling Language (dérivé de l'UML)| 
+SysML|System Modeling Language (derived from UML)| 
 
 # T
 
@@ -252,7 +254,7 @@ TrAX|Transformation API for XML (see also JAXP)|
 Acronym |Meaning |Context
 --------|--------|-------
 UBL|Universal Business Language (http://ubl.xml.org/)| 
-UCS|Universal Character System - c'est l'ISO-10646, codé sur 32 bits (4 octets)| 
+UCS|Universal Character System - it's ISO-10646, 32-bits based encoded (4 bytes)| 
 UDP|User Datagram Protocol| 
 UI|User Interface <br>(fr) IHM | 
 UML|Unified Modeling Language| 
@@ -274,6 +276,7 @@ Acronym |Meaning |Context
 WAMP|Windows, Apache, MySQL, PHP| 
 WCM|Web Content Management| 
 WML|WordML = Word Modelling Language| 
+WMS|Warehouse Management System |
 WOFF|Web Open Font Format| 
 WSDL|Web Service Definition Language| 
 WSIT|Web Services Interoperability Technologies| 
@@ -295,4 +298,8 @@ XSL|eXtensible Stylesheet Language <br> - http://www.w3.org/TR/xslt<br> - http:/
 Acronym |Meaning |Context
 --------|--------|-------
 YAML|YAML Ain't a Markup Language http://www.yaml.org| 
+
+
+A good Acronyms free dictionary: https://acronyms.thefreedictionary.com/
+
 
