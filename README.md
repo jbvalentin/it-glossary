@@ -1,37 +1,293 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jbvalentin/it-glossary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# A
 
-### Markdown
+Acronym |Meaning |Context
+--------|--------|-------
+ACID|Atomicity, Consistency, Isolation, Durability| 
+AOP|Aspect-Oriented Programming| 
+APE|Arbortext Publishing Engine| 
+APP|Arboxtext Print Publisher| 
+ASCII|American Standard Code for Information Interchange| 
+ASIC|Application-Specific Integrated Circuit| 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# B
 
-```markdown
-Syntax highlighted code block
+Acronym |Meaning |Context
+--------|--------|-------
+BASE|Basic Availability, Soft state, Eventual Consistency (opposé à ACID)| 
+BBS|Be Back Soon|Chat
+BDD | Behaviour-Driven Development
+BI|Business Intelligence| 
+Big data| | 
+BPM|Business Process Management <br>(gestion des processus métier) | 
+BTW|By The Way| 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# C
 
-1. Numbered
-2. List
+Acronym |Meaning |Context
+--------|--------|-------
+CCM|Customer Communications Management| 
+CDN|Content Delivery Network| 
+CEO|Chief Executive Officer| 
+CIFS|Common Internet File System| 
+CIO|Chief Information Officer| 
+CMIS|Content Management Interoperability Services| 
+CMO|Chief Marketing Officer| 
+CCMS|Component-Content Management System| 
+CMS|Content Management System<br>(fr) SGC| 
+COO|Chief Operating (ou Operations) Officer| 
+COTS|Commercial Off-The-Shelf| 
+CRM|Customer Relationship Management. <br> (fr) GRC| 
+CRUD|Create / Read / Update / Delete| 
+CTO|Chief Technical Officer (= directeur technique)| 
 
-**Bold** and _Italic_ and `Code` text
+# D
 
-[Link](url) and ![Image](src)
-```
+Acronym |Meaning |Context
+--------|--------|-------
+DDL|Data Definition Language| 
+DITA|Darwin(ian) Information Typing Architecture <br>http://dita.xml.org/standard | 
+DML|Data Manipulation Language| 
+DSL|Domain Specific Language| 
+DTP|DeskTop Publication <br> (fr) PAO| 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# E
+Acronym |Meaning |Context
+--------|--------|-------
+ebXML|Electronic Business using XML (http://www.ebxml.org/ ; http://fr.wikipedia.org/wiki/EbXML | 
+ECM|Enterprise Content Management <br> (fr) GDC| 
+EDI|Echange de Données Informatisé| 
+EDIFACT|Electronic Data Interchange for Administration, Commerce and Transport| 
+EDM|Electronic Document Management <br> (fr) GED| 
+EIM|Enterprise Information Management| 
+EIP|Enterprise Integration Patterns| 
+ELK|ElasticSearch, Logstash, Kibana| 
+ERP|Enterprise Resource Planning<br>(fr) PGI| 
+ESB|Enterprise Service Bus| 
+ETL|Extract, Transform and Load| 
+EXI|(w3c) Efficient XML Interchange <br>  http://www.w3.org/TR/2013/PER-exi-20131022 <br>  http://www.w3.org/TR/exi/ |
+EXIF|Exchangeable Image File Format| 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbvalentin/it-glossary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# F
 
-### Support or Contact
+Acronym |Meaning |Context
+--------|--------|-------
+FIRST|Fast / Independent / Repeatable / Self-validating / Timely| 
+FPGA|Field-Programmable Gate Array (Circuit Logique Programmable)| 
+FPI|Formal Public Identifier. Standard ISO-8879| 
+FWIW|For What It's Worth| 
+FYI|For Your Information| 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# G
+
+Acronym |Meaning |Context
+--------|--------|-------
+GDC|Gestion de Contenu (d'entreprise) <br>(en) ECM| 
+GDR|Gestion des Données de Référence(en) MDM| 
+GED|Gestion Electronique de Documents(en) EDM| 
+GIS|Geographic Information System(fr) SIG| 
+GRC|Gestion de la Relation Client(en) CRM| 
+GWT|Google Web Toolkit| 
+
+# H
+
+Acronym |Meaning |Context
+--------|--------|-------
+Hadoop|Framework pour des applications distribuées traitant de gros volumes de données.| 
+|http://hadoop.apache.org/
+HDFS|Hadoop Distributed File System| 
+HTTP|HyperText Transfer Protocol| 
+
+# I
+
+Acronym |Meaning |Context
+--------|--------|-------
+i18n|Internationalization| 
+IANA|Internet Assigned Numbers Authority| 
+ICC|International Colour Consortium| 
+ICU|International Components for Unicode| 
+IIOP|Internet Inter-ORB Protocol| 
+IMHO|In My Humble Opinion|Chat
+IMO|In My Opinion|Chat
+IMS|Instructional Management Systems (www.imsglobal.org)| 
+INVEST|Independant, Negotiable, Valuable, Estimable, Small, Testable| 
+IoT|Internet of the Things| 
+IRL | In Real Life |
+ISNI|International Standard Name Identifier| 
+
+# J
+
+Acronym |Meaning |Context
+--------|--------|-------
+JATS|Journal Article Tag Suite| 
+JAX-RPC|Java API for XML-based RPC| 
+JAX-RS|Java API for RESTful Web Services https://jax-rs-spec.java.net/| 
+JAX-WS|Java API for XML Web services https://jax-ws.java.net/| 
+JAXB|Java Architecture for XML Binding| 
+JAXP|Java API for XML Processing [ou Parsing] (anciennement TrAX)| 
+JMS|Java Message Service| 
+JSON|JavaScript Object Notation| 
+
+# K
+
+Acronym |Meaning |Context
+--------|--------|-------
+KPI|Key Performance Indicators http://peopleprocessandprofit.com/2010/10/11/kpis-myths-exposed/| 
+
+# L
+
+Acronym |Meaning |Context
+--------|--------|-------
+l10n|Localization| 
+LDAP|Lightweight Directory Access Protocol| 
+LOM|Learning Object Model| 
+LMS|Learning Management System| 
+LRMI|Learning Resource Metadata Initiative (http://www.lrmi.net/)| 
+LSP|Language Services Provider| 
+
+# M
+
+Acronym |Meaning |Context
+--------|--------|-------
+MDM|Master Data Management| 
+MITM|Man-In-The-Middle| 
+MOOC|Massive Open Online Courses| 
+MoSCoW|Must / Should / Could / Won't| 
+MVC|Model-View-Controller| 
+MVVM|Model-View-ViewModel| 
+MVW|Model-View-Whatever| 
+
+# N
+
+Acronym |Meaning |Context
+--------|--------|-------
+NAS|Network Attached Storage https://fr.wikipedia.org/wiki/Serveur_de_stockage_en_r%C3%A9seau| 
+NoSQL| | 
+
+# O
+
+Acronym |Meaning |Context
+--------|--------|-------
+OASIS|Organization for the Advancement of Structured Information Standards (https://www.oasis-open.org)| 
+OEM|Original Equipment Manufacturer| 
+OLAP|Online Analytical Processing| 
+OMG|Object Management Group  (http://www.omg.org/)| 
+|Oh My God|Chat
+OOTB|Out-Of-The-Box| 
+ORPC|Object Remote Procedure Call| 
+OSGi|Open Services Gateway initiative (http://www.osgi.org)| 
+
+# P
+Acronym |Meaning |Context
+--------|--------|-------
+PAO|Publication Assistée par Ordinateur <br> (en) DTP| 
+PDM|Product Data Management <br> (fr) SGDT| 
+PGI|Progiciel de Gestion Intégré <br> (en) ERP| 
+PIF| | 
+PIM|Product Information Management| 
+POC|Proof of Concept| 
+POJO|Plain Old Java Object| 
+
+# Q
+Acronym |Meaning |Context
+--------|--------|-------
+QTI|Question and Test Interoperability (http://www.imsglobal.org/question/)| 
+ 
+# R
+Acronym |Meaning |Context
+--------|--------|-------
+RACI|Responsible/Accountable/Consulted/Information|Mngmt
+RDBMS|Relational DataBase Management System <br>(fr) SGBDR| 
+RDF|Resource Description Framework| 
+RDP|Remote Desktop Protocol| 
+REST|REpresentational State Transfer| 
+RMI|Remote Method Invocation| 
+RPC|Remote Procedure Call| 
+RSS|Rich Site Summary| 
+
+# S
+Acronym |Meaning |Context
+--------|--------|-------
+SAAJ|SOAP with Attchments API for Java| 
+SAML|Security Assertion Markup Language| 
+SAX|Simple API for XML http://www.saxproject.org/| 
+SCM|Source Control Management| 
+SCORM|Sharable Content Object Reference Model| 
+SEO|Search Engine Optimization| 
+SGBD(R)|Système de Gestion de Base de Données (Relationnelle)| 
+SGC|Système de Gestion de Contenu<br>(en) CMS| 
+SGDT|Système de Gestion de Données Techniques<br>(en) PDM| 
+SGML|Standard Generalized Markup Language| 
+SIG|Système d'Information Géographique <br>(en) GIS| 
+SLA|Service Level Agreements| 
+SMART|Specific, Measurable, Achievable, Relevant, Time-boxed| 
+SME|Subject Matter Expert (=Expert Métier)| 
+SMIL|Synchronized Multimedia Integration Language| 
+SOAP|Simple Object Access Protocol (sometimes : Service Oriented Architecture Protocol) | 
+SOW|Statement Of Work| 
+SSO|Single Sign-On| 
+StAX|Streaming API for XML| 
+StratML|Strategy Markup Language (http://xml.fido.gov/stratml/index.htm)| 
+SWOT|Strengths, Weaknesses, Opportunities, Threats| 
+SysML|System Modeling Language (dérivé de l'UML)| 
+
+# T
+
+Acronym |Meaning |Context
+--------|--------|-------
+TDD|Test-Driven Development| 
+TEI|Text Encoding Initiative http://www.tei-c.org/index.xml| 
+TL;DR | Too Long, Didn't read |
+TrAX|Transformation API for XML (see also JAXP)| 
+
+# U
+
+Acronym |Meaning |Context
+--------|--------|-------
+UBL|Universal Business Language (http://ubl.xml.org/)| 
+UCS|Universal Character System - c'est l'ISO-10646, codé sur 32 bits (4 octets)| 
+UDP|User Datagram Protocol| 
+UI|User Interface <br>(fr) IHM | 
+UML|Unified Modeling Language| 
+URI|Uniform Resource Identifier| 
+URL|Uniform (parfois Universal) Resource Locator | 
+URN|Uniform Resource Name| 
+USP|Unique Service Provider| 
+
+# V
+
+Acronym |Meaning |Context
+--------|--------|-------
+VCS|Version Control System (see also SCM) |
+
+# W
+
+Acronym |Meaning |Context
+--------|--------|-------
+WAMP|Windows, Apache, MySQL, PHP| 
+WCM|Web Content Management| 
+WML|WordML = Word Modelling Language| 
+WOFF|Web Open Font Format| 
+WSDL|Web Service Definition Language| 
+WSIT|Web Services Interoperability Technologies| 
+WTF|What The F***|Chat
+
+# X
+Acronym |Meaning |Context
+--------|--------|-------
+XLIFF|XML Localisation Interchange File Format| 
+XMI|XML Metadata Interchange - stantard for metadata exchange, based on XML<br>http://www.omg.org/spec/XMI/| 
+XML|eXtensible Markup Language<br>http://www.w3.org/TR/REC-xml/| 
+XMP|Adobe XML Metadata Platform| 
+XMPP|eXtensible Messaging and Presence Protocol| 
+XSL|eXtensible Stylesheet Language <br> - http://www.w3.org/TR/xslt<br> - http://www.w3.org/TR/xslt20
+
+# Y
+
+Acronym |Meaning |Context
+--------|--------|-------
+YAML|YAML Ain't a Markup Language http://www.yaml.org| 
+
