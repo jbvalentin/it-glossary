@@ -1,5 +1,4 @@
 
-
 # A
 
 Acronym |Meaning |Context
@@ -55,6 +54,7 @@ DTP|DeskTop Publication <br> (fr) PAO|
 
 
 # E
+
 Acronym |Meaning |Context
 --------|--------|-------
 ebXML|Electronic Business using XML (http://www.ebxml.org/ ; http://fr.wikipedia.org/wiki/EbXML | 
@@ -181,6 +181,7 @@ ORPC|Object Remote Procedure Call|
 OSGi|Open Services Gateway initiative (http://www.osgi.org)| 
 
 # P
+
 Acronym |Meaning |Context
 --------|--------|-------
 PAO|Publication Assistée par Ordinateur <br> (en) DTP| 
@@ -192,11 +193,13 @@ POC|Proof of Concept|
 POJO|Plain Old Java Object| 
 
 # Q
+
 Acronym |Meaning |Context
 --------|--------|-------
 QTI|Question and Test Interoperability (http://www.imsglobal.org/question/)| 
  
 # R
+
 Acronym |Meaning |Context
 --------|--------|-------
 RACI|Responsible/Accountable/Consulted/Information|Mngmt
@@ -209,6 +212,7 @@ RPC|Remote Procedure Call|
 RSS|Rich Site Summary| 
 
 # S
+
 Acronym |Meaning |Context
 --------|--------|-------
 SAAJ|SOAP with Attchments API for Java| 
@@ -276,6 +280,7 @@ WSIT|Web Services Interoperability Technologies|
 WTF|What The F***|Chat
 
 # X
+
 Acronym |Meaning |Context
 --------|--------|-------
 XLIFF|XML Localisation Interchange File Format| 
