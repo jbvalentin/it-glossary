@@ -28,28 +28,30 @@ BTW|**B**y **T**he **W**ay|
 
 Acronym |Meaning |Context
 --------|--------|-------
-CCM|Customer Communications Management| 
-CDN|Content Delivery Network| 
-CEO|Chief Executive Officer| 
-CIFS|Common Internet File System| 
-CIO|Chief Information Officer| 
-CMIS|Content Management Interoperability Services| 
-CMO|Chief Marketing Officer| 
-CCMS|Component-Content Management System| 
-CMS|Content Management System<br>(fr) SGC| 
-COO|Chief Operating (ou Operations) Officer| 
-COTS|Commercial Off-The-Shelf| 
-CRM|Customer Relationship Management. <br> (fr) GRC| 
-CRUD|Create / Read / Update / Delete| 
-CTO|Chief Technical Officer (= directeur technique)| 
+CCM|**C**ustomer **C**ommunications **M**anagement| 
+CDN|**C**ontent **D**elivery **N**etwork| 
+CDO|**C**hief **D**ata **O**fficer |
+CEO|**C**hief **E**xecutive **O**fficer| 
+CIFS|**C**ommon **I**nternet **F**ile **S**ystem| 
+CIO|**C**hief **I**nformation **O**fficer| 
+CMIS|**C**ontent **M**anagement **I**nteroperability **S**ervices| 
+CMO|**C**hief **M**arketing **O**fficer| 
+CCMS|**C**omponent-**C**ontent **M**anagement **S**ystem| 
+CMS|**C**ontent **M**anagement **S**ystem<br>(fr) SGC| 
+COO|**C**hief **O**perating (or **O**perations) **O**fficer| 
+COTS|**C**ommercial **O**ff-**T**he-**S**helf| 
+CRM|**C**ustomer Relationship Management. <br> (fr) GRC| 
+CRUD|**C**reate / **R**ead / **U**pdate / **D**elete| 
+CTO|**C**hief **T**echnical **O**fficer (= directeur technique)| 
 
 # D
 
 Acronym |Meaning |Context
 --------|--------|-------
-DDL|Data Definition Language| 
-DITA|Darwin(ian) Information Typing Architecture <br>http://dita.xml.org/standard | 
-DML|Data Manipulation Language| 
+DDL|**D**ata **D**efinition **L**anguage| 
+DITA|**D**arwin(ian) **I**nformation **T**yping **A**rchitecture <br>http://dita.xml.org/standard | 
+DML|**D**ata **M**anipulation **L**anguage| 
+DNS|**D**omain **N**ame **S**ystem (sometimes **S**ervice) | 
 DOM|**D**ocument **O**bject **M**odel |
 DSL|**D**omain **S**pecific **L**anguage| 
 DTP|DeskTop Publication <br> (fr) PAO| 
