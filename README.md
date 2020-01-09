@@ -4,6 +4,7 @@
 Acronym |Meaning |Context
 --------|--------|-------
 ACID|**A**tomicity, **C**onsistency, **I**solation, **D**urability| 
+AI|**A**rticficial **I**ntelligence|
 AOP|**A**spect-**O**riented **P**rogramming| 
 APE|**A**rbortext **P**ublishing **E**ngine| 
 APP|**A**rboxtext **P**rint **P**ublisher| 
@@ -54,7 +55,7 @@ DML|**D**ata **M**anipulation **L**anguage|
 DNS|**D**omain **N**ame **S**ystem (sometimes **S**ervice) | 
 DOM|**D**ocument **O**bject **M**odel |
 DSL|**D**omain **S**pecific **L**anguage| 
-DTP|DeskTop Publication <br> (fr) PAO| 
+DTP|**D**esk**T**op **P**ublication <br> (fr) PAO| 
 
 
 # E
@@ -63,7 +64,7 @@ Acronym |Meaning |Context
 --------|--------|-------
 ebXML|Electronic Business using XML (http://www.ebxml.org/ ; http://fr.wikipedia.org/wiki/EbXML | 
 ECM|Enterprise Content Management <br> (fr) GDC| 
-EDI|Echange de Données Informatisé| 
+EDI|Electronic Data Interchange <br>(fr) Echange de Données Informatisé| 
 EDIFACT|Electronic Data Interchange for Administration, Commerce and Transport| 
 EDM|Electronic Document Management <br> (fr) GED| 
 EIM|Enterprise Information Management| 
@@ -159,20 +160,21 @@ LSP|Language Services Provider|
 
 Acronym |Meaning |Context
 --------|--------|-------
-MDM|Master Data Management| 
-MITM|Man-In-The-Middle| 
-MOOC|Massive Open Online Courses| 
+MDM|**M**aster **D**ata **M**anagement| 
+MITM|**M**an-**I**n-**T**he-**M**iddle|
+ML|**M**achine **L**earning|
+MOOC|**M**assive **O**pen **O**nline **C**ourses| 
 MoSCoW|**M**ust / **S**hould / **C**ould / **W**on't (or **W**ould)| 
-MVC|Model-View-Controller| 
-MVVM|Model-View-ViewModel| 
-MVW|Model-View-Whatever| 
+MVC|**M**odel-**V**iew-**C**ontroller| 
+MVVM|**M**odel-**V**iew-**V**iew**M**odel| 
+MVW|**M**odel-**V**iew-**W**hatever| 
 
 # N
 
 Acronym |Meaning |Context
 --------|--------|-------
-NAS|Network Attached Storage https://fr.wikipedia.org/wiki/Serveur_de_stockage_en_r%C3%A9seau| 
-NoSQL| | 
+NAS|**N**etwork **A**ttached **S**torage <br> https://fr.wikipedia.org/wiki/Serveur_de_stockage_en_r%C3%A9seau| 
+NoSQL|Not-only SQL | 
 
 # O
 
@@ -203,7 +205,7 @@ POJO|Plain Old Java Object|
 
 Acronym |Meaning |Context
 --------|--------|-------
-QTI|Question and Test Interoperability (http://www.imsglobal.org/question/)| 
+QTI|**Q**uestion and **T**est **I**nteroperability (http://www.imsglobal.org/question/)| 
  
 # R
 
