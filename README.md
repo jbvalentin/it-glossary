@@ -111,14 +111,17 @@ Acronym |Meaning |Context
 --------|--------|-------
 i18n|Internationalization| 
 IANA|Internet Assigned Numbers Authority| 
+ICANN|Internet Corporation of Assigned Names and Numbers|
 ICC|International Colour Consortium| 
 ICU|International Components for Unicode| 
+IETF|Internet Engineering Task Force<br>https://www.ietf.org/|
 IIOP|Internet Inter-ORB Protocol| 
 IMHO|In My Humble Opinion|Chat
 IMO|In My Opinion|Chat
 IMS|Instructional Management Systems (www.imsglobal.org)| 
 INVEST|Independant, Negotiable, Valuable, Estimable, Small, Testable| 
 IoT|Internet of the Things| 
+IP|Internet Protocol|
 IRL | In Real Life |
 ISNI|International Standard Name Identifier| 
 
@@ -246,30 +249,31 @@ SysML|System Modeling Language (derived from UML)|
 
 Acronym |Meaning |Context
 --------|--------|-------
-TDD|Test-Driven Development| 
-TEI|Text Encoding Initiative http://www.tei-c.org/index.xml| 
-TL;DR | Too Long, Didn't read |
-TrAX|Transformation API for XML (see also JAXP)| 
+TCP|**T**ransmission **C**ontrol **P**rotocol|
+TDD|**T**est-**D**riven **D**evelopment| 
+TEI|**T**ext **E**ncoding **I**nitiative http://www.tei-c.org/index.xml| 
+TL;DR | **T**oo **L**ong, **D**idn't **R**ead |
+TrAX|**Tr**ansformation **A**PI for **X**ML (see also JAXP)| 
 
 # U
 
 Acronym |Meaning |Context
 --------|--------|-------
-UBL|Universal Business Language (http://ubl.xml.org/)| 
-UCS|Universal Character System - it's ISO-10646, 32-bits based encoded (4 bytes)| 
-UDP|User Datagram Protocol| 
-UI|User Interface <br>(fr) IHM | 
-UML|Unified Modeling Language| 
-URI|Uniform Resource Identifier| 
-URL|Uniform (parfois Universal) Resource Locator | 
-URN|Uniform Resource Name| 
-USP|Unique Service Provider| 
+UBL|**U**niversal **B**usiness **L**anguage (http://ubl.xml.org/)| 
+UCS|**U**niversal **C**haracter **S**ystem - it's ISO-10646, 32-bits based encoded (4 bytes)| 
+UDP|**U**ser **D**atagram **P**rotocol| 
+UI|**U**ser **I**nterface <br>(fr) IHM | 
+UML|**U**nified **M**odeling **L**anguage| 
+URI|**U**niform **R**esource **I**dentifier| 
+URL|**U**niform (sometimes **U**niversal) **R**esource **L**ocator | 
+URN|**U**niform **R**esource **N**ame| 
+USP|**U**nique **S**ervice **P**rovider| 
 
 # V
 
 Acronym |Meaning |Context
 --------|--------|-------
-VCS|Version Control System (see also SCM) |
+VCS|**V**ersion **C**ontrol **S**ystem (see also SCM) |
 
 # W
 
