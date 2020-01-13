@@ -49,6 +49,7 @@ CTO|**C**hief **T**echnical **O**fficer (= directeur technique)|
 
 Acronym |Meaning |Context
 --------|--------|-------
+DDD|**D**omain-**D**riven **D**esign|
 DDL|**D**ata **D**efinition **L**anguage| 
 DITA|**D**arwin(ian) **I**nformation **T**yping **A**rchitecture <br>http://dita.xml.org/standard | 
 DML|**D**ata **M**anipulation **L**anguage| 
@@ -136,8 +137,10 @@ JAX-RS|Java API for RESTful Web Services https://jax-rs-spec.java.net/|
 JAX-WS|Java API for XML Web services https://jax-ws.java.net/| 
 JAXB|Java Architecture for XML Binding| 
 JAXP|Java API for XML Processing [ou Parsing] (anciennement TrAX)| 
+JCP|Java Community Process<br>https://jcp.org/en/introduction/overview|
 JMS|Java Message Service| 
 JSON|JavaScript Object Notation| 
+JSR|**J**ava **S**pecification **R**equest|
 
 # K
 
@@ -183,10 +186,11 @@ Acronym |Meaning |Context
 OASIS|Organization for the Advancement of Structured Information Standards (https://www.oasis-open.org)| 
 OEM|Original Equipment Manufacturer| 
 OLAP|Online Analytical Processing| 
-OMG|Object Management Group  (http://www.omg.org/)| 
+OMG|Object Management Group  (http://www.omg.org/)|
 |Oh My God|Chat
 OOTB|Out-Of-The-Box| 
 ORPC|Object Remote Procedure Call| 
+OSI|**O**pen **S**ystems **I**nterconnection|Networks
 OSGi|Open Services Gateway initiative (http://www.osgi.org)| 
 
 # P
@@ -211,11 +215,11 @@ QTI|**Q**uestion and **T**est **I**nteroperability (http://www.imsglobal.org/que
 
 Acronym |Meaning |Context
 --------|--------|-------
-RACI|Responsible/Accountable/Consulted/Information|Mngmt
+RACI|**R**esponsible/**A**ccountable/**C**onsulted/**I**nformation|Mngmt
 RDBMS|Relational DataBase Management System <br>(fr) SGBDR| 
 RDF|Resource Description Framework| 
 RDP|Remote Desktop Protocol| 
-REST|REpresentational State Transfer| 
+REST|**RE**presentational **S**tate **T**ransfer| 
 RMI|Remote Method Invocation| 
 RPC|Remote Procedure Call| 
 RSS|Rich Site Summary| 
@@ -270,6 +274,7 @@ URI|**U**niform **R**esource **I**dentifier|
 URL|**U**niform (sometimes **U**niversal) **R**esource **L**ocator | 
 URN|**U**niform **R**esource **N**ame| 
 USP|**U**nique **S**ervice **P**rovider| 
+UX|**U**ser e**X**perience|
 
 # V
 
@@ -281,14 +286,14 @@ VCS|**V**ersion **C**ontrol **S**ystem (see also SCM) |
 
 Acronym |Meaning |Context
 --------|--------|-------
-WAMP|Windows, Apache, MySQL, PHP| 
-WCM|Web Content Management| 
-WML|WordML = Word Modelling Language| 
-WMS|Warehouse Management System |
-WOFF|Web Open Font Format| 
-WSDL|Web Service Definition Language| 
-WSIT|Web Services Interoperability Technologies| 
-WTF|What The F***|Chat
+WAMP|**W**indows, **A**pache, **M**ySQL, **P**HP| 
+WCM|**W**eb **C**ontent **M**anagement| 
+WML|WordML = **W**ord **M**odelling **L**anguage| 
+WMS|**W**arehouse **M**anagement **S**ystem |
+WOFF|**W**eb **O**pen **F**ont **F**ormat| 
+WSDL|**W**eb **S**ervice **D**efinition **L**anguage| 
+WSIT|**W**eb **S**ervices **I**nteroperability **T**echnologies| 
+WTF|**W**hat **T**he **F*****|Chat
 
 # X
 
@@ -299,13 +304,13 @@ XMI|XML Metadata Interchange - stantard for metadata exchange, based on XML<br>h
 XML|eXtensible Markup Language<br>http://www.w3.org/TR/REC-xml/| 
 XMP|Adobe XML Metadata Platform| 
 XMPP|eXtensible Messaging and Presence Protocol| 
-XSL|eXtensible Stylesheet Language <br> - http://www.w3.org/TR/xslt<br> - http://www.w3.org/TR/xslt20
+XSL|e**X**tensible **S**tylesheet **L**anguage <br> - http://www.w3.org/TR/xslt<br> - http://www.w3.org/TR/xslt20
 
 # Y
 
 Acronym |Meaning |Context
 --------|--------|-------
-YAML|YAML Ain't a Markup Language http://www.yaml.org| 
+YAML|YAML Ain't a Markup Language () http://www.yaml.org| 
 
 
 A good Acronyms free dictionary: https://acronyms.thefreedictionary.com/
