@@ -51,6 +51,7 @@ Acronym |Meaning |Context
 --------|--------|-------
 DDD|**D**omain-**D**riven **D**esign|
 DDL|**D**ata **D**efinition **L**anguage| 
+DHCP|**D**ynamic **H**ost **C**onfiguration **P**rotocol|Networks
 DITA|**D**arwin(ian) **I**nformation **T**yping **A**rchitecture <br>http://dita.xml.org/standard | 
 DML|**D**ata **M**anipulation **L**anguage| 
 DNS|**D**omain **N**ame **S**ystem (sometimes **S**ervice) | 
@@ -112,52 +113,55 @@ HTTP|HyperText Transfer Protocol|
 Acronym |Meaning |Context
 --------|--------|-------
 i18n|Internationalization| 
-IANA|Internet Assigned Numbers Authority| 
-ICANN|Internet Corporation of Assigned Names and Numbers|
-ICC|International Colour Consortium| 
-ICU|International Components for Unicode| 
-IETF|Internet Engineering Task Force<br>https://www.ietf.org/|
-IIOP|Internet Inter-ORB Protocol| 
-IMHO|In My Humble Opinion|Chat
-IMO|In My Opinion|Chat
-IMS|Instructional Management Systems (www.imsglobal.org)| 
-INVEST|Independant, Negotiable, Valuable, Estimable, Small, Testable| 
-IoT|Internet of the Things| 
-IP|Internet Protocol|
-IRL | In Real Life |
-ISNI|International Standard Name Identifier| 
+IANA|**I**nternet **A**ssigned **N**umbers **A**uthority| 
+ICANN|**I**nternet **C**orporation of **A**ssigned **N**ames and **N**umbers|
+ICC|**I**nternational **C**olour **C**onsortium| 
+ICU|**I**nternational **C**omponents for **U**nicode| 
+IETF|**I**nternet **E**ngineering **T**ask **F**orce<br>https://www.ietf.org/|
+IIOP|**I**nternet **I**nter-**O**RB **P**rotocol| 
+IMHO|**I**n **M**y **H**umble **O**pinion|Chat
+IMO|**I**n **M**y **O**pinion|Chat
+IMS|**I**nstructional **M**anagement **S**ystems (www.imsglobal.org)| 
+INVEST|**I**ndependant, **N**egotiable, **V**aluable, **E**stimable, **S**mall, **T**estable| 
+IoT|**I**nternet **o**f the **T**hings| 
+IP|**I**nternet **P**rotocol|
+IRL|**I**n **R**eal **L**ife |Chat
+ISNI|**I**nternational **S**tandard **N**ame **I**dentifier| 
 
 # J
 
 Acronym |Meaning |Context
 --------|--------|-------
-JATS|Journal Article Tag Suite| 
-JAX-RPC|Java API for XML-based RPC| 
-JAX-RS|Java API for RESTful Web Services https://jax-rs-spec.java.net/| 
-JAX-WS|Java API for XML Web services https://jax-ws.java.net/| 
-JAXB|Java Architecture for XML Binding| 
-JAXP|Java API for XML Processing [ou Parsing] (anciennement TrAX)| 
-JCP|Java Community Process<br>https://jcp.org/en/introduction/overview|
-JMS|Java Message Service| 
-JSON|JavaScript Object Notation| 
+JATS|**J**ournal **A**rticle **T**ag **S**uite| 
+JAX-RPC|**J**ava **A**PI for XML-based **RPC**| 
+JAX-RS|**J**ava **A**PI for **R**ESTful Web **S**ervices https://jax-rs-spec.java.net/| 
+JAX-WS|**J**ava **A**PI for **X**ML **W**eb **S**ervices https://jax-ws.java.net/| 
+JAXB|**J**ava **A**rchitecture for **X**ML **B**inding| 
+JAXP|**J**ava **A**PI for **X**ML **P**rocessing (or Parsing) (formerly TrAX)| 
+JCP|**J**ava **C**ommunity **P**rocess<br>https://jcp.org/en/introduction/overview|
+JEE|**J**ava **E**nterprise **E**dition|
+JMS|**J**ava **M**essage **S**ervice| 
+JNDI|**J**ava **N**aming and **D**irectory **I**nteface|
+JSON|**J**ava**S**cript **O**bject **N**otation| 
 JSR|**J**ava **S**pecification **R**equest|
+JTA|**J**ava **T**ransaction **A**PI|
 
 # K
 
 Acronym |Meaning |Context
 --------|--------|-------
-KPI|Key Performance Indicators http://peopleprocessandprofit.com/2010/10/11/kpis-myths-exposed/| 
+KPI|**K**ey **P**erformance **I**ndicators http://peopleprocessandprofit.com/2010/10/11/kpis-myths-exposed/| 
 
 # L
 
 Acronym |Meaning |Context
 --------|--------|-------
-l10n|Localization| 
-LDAP|Lightweight Directory Access Protocol| 
-LOM|Learning Object Model| 
-LMS|Learning Management System| 
-LRMI|Learning Resource Metadata Initiative (http://www.lrmi.net/)| 
-LSP|Language Services Provider| 
+l10n|**L**ocalizatio**n**| 
+LDAP|**L**ightweight **D**irectory **A**ccess **P**rotocol| 
+LOM|**L**earning **O**bject **M**odel| 
+LMS|**L**earning **M**anagement **S**ystem| 
+LRMI|**L**earning **R**esource **M**etadata **I**nitiative (http://www.lrmi.net/)| 
+LSP|**L**anguage **S**ervices **P**rovider| 
 
 # M
 
