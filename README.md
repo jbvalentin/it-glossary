@@ -64,29 +64,29 @@ DTP|**D**esk**T**op **P**ublication <br> (fr) PAO|
 
 Acronym |Meaning |Context
 --------|--------|-------
-ebXML|Electronic Business using XML (http://www.ebxml.org/ ; http://fr.wikipedia.org/wiki/EbXML | 
-ECM|Enterprise Content Management <br> (fr) GDC| 
-EDI|Electronic Data Interchange <br>(fr) Echange de Données Informatisé| 
-EDIFACT|Electronic Data Interchange for Administration, Commerce and Transport| 
-EDM|Electronic Document Management <br> (fr) GED| 
-EIM|Enterprise Information Management| 
-EIP|Enterprise Integration Patterns| 
-ELK|ElasticSearch, Logstash, Kibana| 
-ERP|Enterprise Resource Planning<br>(fr) PGI| 
-ESB|Enterprise Service Bus| 
-ETL|Extract, Transform and Load| 
-EXI|(w3c) Efficient XML Interchange <br>  http://www.w3.org/TR/2013/PER-exi-20131022 <br>  http://www.w3.org/TR/exi/ |
-EXIF|Exchangeable Image File Format| 
+ebXML|**E**lectronic **B**usiness using **XML** (http://www.ebxml.org/ ; http://fr.wikipedia.org/wiki/EbXML | 
+ECM|**E**nterprise **C**ontent **M**anagement <br> (fr) GDC| 
+EDI|**E**lectronic **D**ata **I**nterchange <br>(fr) Echange de Données Informatisé| 
+EDIFACT|**E**lectronic **D**ata **I**nterchange for **A**dministration, **C**ommerce and **T**ransport| 
+EDM|**E**lectronic **D**ocument **M**anagement <br> (fr) GED| 
+EIM|**E**nterprise **I**nformation **M**anagement| 
+EIP|**E**nterprise **I**ntegration **P**atterns| 
+ELK|**E**lasticSearch, **L**ogstash, **K**ibana| 
+ERP|**E**nterprise **R**esource **P**lanning<br>(fr) PGI| 
+ESB|**E**nterprise **S**ervice **B**us| 
+ETL|**E**xtract, **T**ransform and **L**oad| 
+EXI|(w3c) **E**fficient **X**ML **I**nterchange <br>  http://www.w3.org/TR/2013/PER-exi-20131022 <br>  http://www.w3.org/TR/exi/ |XML
+EXIF|**E**xchangeable **I**mage **F**ile **F**ormat| 
 
 # F
 
 Acronym |Meaning |Context
 --------|--------|-------
-FIRST|Fast / Independent / Repeatable / Self-validating / Timely| 
-FPGA|Field-Programmable Gate Array (Circuit Logique Programmable)| 
-FPI|Formal Public Identifier. Standard ISO-8879| 
-FWIW|For What It's Worth| 
-FYI|For Your Information| 
+FIRST|**F**ast / **I**ndependent / **R**epeatable / **S**elf-validating / **T**imely|Management jargon
+FPGA|**F**ield-**P**rogrammable **G**ate **A**rray (Circuit Logique Programmable)|Hardware 
+FPI|**F**ormal **P**ublic **I**dentifier. Standard ISO-8879| 
+FWIW|**F**or **W**hat **I**t's **W**orth|Chat 
+FYI|**F**or **Y**our **I**nformation|Chat 
 
 # G
 
@@ -103,8 +103,7 @@ GWT|Google Web Toolkit|
 
 Acronym |Meaning |Context
 --------|--------|-------
-Hadoop|Framework pour des applications distribuées traitant de gros volumes de données.| 
-|http://hadoop.apache.org/
+Hadoop|Framework for distributed applications.<br>http://hadoop.apache.org/|Big data
 HDFS|Hadoop Distributed File System| 
 HTTP|HyperText Transfer Protocol| 
 
@@ -132,6 +131,7 @@ ISNI|**I**nternational **S**tandard **N**ame **I**dentifier|
 
 Acronym |Meaning |Context
 --------|--------|-------
+JAAS|**J**ava **A**uthentication and **A**uthorization **S**ervice|Java, security
 JATS|**J**ournal **A**rticle **T**ag **S**uite| 
 JAX-RPC|**J**ava **A**PI for XML-based **RPC**| 
 JAX-RS|**J**ava **A**PI for **R**ESTful Web **S**ervices https://jax-rs-spec.java.net/| 
@@ -180,8 +180,9 @@ MVW|**M**odel-**V**iew-**W**hatever|
 
 Acronym |Meaning |Context
 --------|--------|-------
-NAS|**N**etwork **A**ttached **S**torage <br> https://fr.wikipedia.org/wiki/Serveur_de_stockage_en_r%C3%A9seau| 
-NoSQL|Not-only SQL | 
+NAS|**N**etwork **A**ttached **S**torage <br> https://fr.wikipedia.org/wiki/Serveur_de_stockage_en_r%C3%A9seau|
+NLP|**N**atural **L**anguage **P**rocessing|
+NoSQL|**N**ot-**o**nly **SQL** | 
 
 # O
 
@@ -204,7 +205,7 @@ Acronym |Meaning |Context
 PAO|Publication Assistée par Ordinateur <br> (en) DTP| 
 PDM|Product Data Management <br> (fr) SGDT| 
 PGI|Progiciel de Gestion Intégré <br> (en) ERP| 
-PIF| | 
+PIF|Process Interchange Format| 
 PIM|Product Information Management| 
 POC|Proof of Concept| 
 POJO|Plain Old Java Object| 
@@ -232,7 +233,7 @@ RSS|Rich Site Summary|
 
 Acronym |Meaning |Context
 --------|--------|-------
-SAAJ|SOAP with Attchments API for Java| 
+SAAJ|SOAP with Attachments API for Java| 
 SAML|Security Assertion Markup Language| 
 SAX|Simple API for XML http://www.saxproject.org/| 
 SCM|Source Control Management| 
@@ -245,14 +246,15 @@ SGML|Standard Generalized Markup Language|
 SIG|Système d'Information Géographique <br>(en) GIS| 
 SLA|Service Level Agreements| 
 SMART|Specific, Measurable, Achievable, Relevant, Time-boxed| 
-SME|Subject Matter Expert (=Expert Métier)| 
+SME|Subject Matter Expert <br>(fr) Expert Métier| 
 SMIL|Synchronized Multimedia Integration Language| 
 SOAP|Simple Object Access Protocol (sometimes : Service Oriented Architecture Protocol) | 
-SOW|Statement Of Work| 
-SSO|Single Sign-On| 
-StAX|Streaming API for XML| 
+SOW|Statement Of Work|
+SQL|**S**tructured **Q**uery **L**anguage|Databases 
+SSO|Single Sign-On|Security
+StAX|Streaming API for XML|XML
 StratML|Strategy Markup Language (http://xml.fido.gov/stratml/index.htm)| 
-SWOT|Strengths, Weaknesses, Opportunities, Threats| 
+SWOT|Strengths, Weaknesses, Opportunities, Threats|Management jargon
 SysML|System Modeling Language (derived from UML)| 
 
 # T
@@ -303,20 +305,20 @@ WTF|**W**hat **T**he **F*****|Chat
 
 Acronym |Meaning |Context
 --------|--------|-------
-XLIFF|XML Localisation Interchange File Format| 
-XMI|XML Metadata Interchange - stantard for metadata exchange, based on XML<br>http://www.omg.org/spec/XMI/| 
-XML|eXtensible Markup Language<br>http://www.w3.org/TR/REC-xml/| 
-XMP|Adobe XML Metadata Platform| 
-XMPP|eXtensible Messaging and Presence Protocol| 
+XLIFF|**X**ML **L**ocalisation **I**nterchange **F**ile **F**ormat| 
+XMI|**X**ML **M**etadata **I**nterchange - stantard for metadata exchange, based on XML<br>http://www.omg.org/spec/XMI/| 
+XML|e**X**tensible **M**arkup **L**anguage<br>http://www.w3.org/TR/REC-xml/| 
+XMP|Adobe **X**ML **M**etadata **P**latform| 
+XMPP|e**X**tensible **M**essaging and **P**resence **P**rotocol| 
 XSL|e**X**tensible **S**tylesheet **L**anguage <br> - http://www.w3.org/TR/xslt<br> - http://www.w3.org/TR/xslt20
 
 # Y
 
 Acronym |Meaning |Context
 --------|--------|-------
-YAML|YAML Ain't a Markup Language () http://www.yaml.org| 
+YAML|**Y**AML **A**in't a **M**arkup **L**anguage (recursive acronym) http://www.yaml.org| 
 
 
-A good Acronyms free dictionary: https://acronyms.thefreedictionary.com/
+A good Acronyms free dictionary: [The free dictionary Acronyms and Abbreviations](https://acronyms.thefreedictionary.com/)
 
 
