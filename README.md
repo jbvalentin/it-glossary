@@ -4,7 +4,8 @@
 Acronym |Meaning |Context
 --------|--------|-------
 ACID|**A**tomicity, **C**onsistency, **I**solation, **D**urability| 
-AI|**A**rticficial **I**ntelligence|
+AES|**A**dvanced **E**ncryption **S**tandard| 
+AI|**A**rtificial **I**ntelligence|
 AOP|**A**spect-**O**riented **P**rogramming| 
 APE|**A**rbortext **P**ublishing **E**ngine| 
 APP|**A**rboxtext **P**rint **P**ublisher| 
@@ -49,14 +50,18 @@ CTO|**C**hief **T**echnical **O**fficer (= directeur technique)|
 
 Acronym |Meaning |Context
 --------|--------|-------
+DAO|**D**ata **A**ccess **O**bject|
 DDD|**D**omain-**D**riven **D**esign|
 DDL|**D**ata **D**efinition **L**anguage| 
+DES|**D**ata **E**ncryption **S**tandard| 
 DHCP|**D**ynamic **H**ost **C**onfiguration **P**rotocol|Networks
 DITA|**D**arwin(ian) **I**nformation **T**yping **A**rchitecture <br>http://dita.xml.org/standard | 
 DML|**D**ata **M**anipulation **L**anguage| 
 DNS|**D**omain **N**ame **S**ystem (sometimes **S**ervice) | 
 DOM|**D**ocument **O**bject **M**odel |
+DSA|**D**igital **S**ignature **A**lgorithm|Security<br>Cryptography
 DSL|**D**omain **S**pecific **L**anguage| 
+DTO|**D**ata **T**ransfer **O**bject|
 DTP|**D**esk**T**op **P**ublication <br> (fr) PAO| 
 
 
@@ -92,20 +97,20 @@ FYI|**F**or **Y**our **I**nformation|Chat
 
 Acronym |Meaning |Context
 --------|--------|-------
-GDC|Gestion de Contenu (d'entreprise) <br>(en) ECM| 
-GDR|Gestion des Données de Référence(en) MDM| 
-GED|Gestion Electronique de Documents(en) EDM| 
-GIS|Geographic Information System(fr) SIG| 
-GRC|Gestion de la Relation Client(en) CRM| 
-GWT|Google Web Toolkit| 
+GDC|**G**estion de **C**ontenu (d'entreprise) <br>(en) ECM| 
+GDR|**G**estion des **D**onnées de **R**éférence(en) MDM| 
+GED|**G**estion **E**lectronique de **D**ocuments(en) EDM| 
+GIS|**G**eographic **I**nformation **S**ystem(fr) SIG| 
+GRC|**G**estion de la **R**elation **C**lient(en) CRM| 
+GWT|**G**oogle **W**eb **T**oolkit| 
 
 # H
 
 Acronym |Meaning |Context
 --------|--------|-------
 Hadoop|Framework for distributed applications.<br>http://hadoop.apache.org/|Big data
-HDFS|Hadoop Distributed File System| 
-HTTP|HyperText Transfer Protocol| 
+HDFS|**H**adoop **D**istributed **F**ile **S**ystem| 
+HTTP|**H**yper**T**ext **T**ransfer **P**rotocol| 
 
 # I
 
@@ -132,12 +137,13 @@ ISNI|**I**nternational **S**tandard **N**ame **I**dentifier|
 Acronym |Meaning |Context
 --------|--------|-------
 JAAS|**J**ava **A**uthentication and **A**uthorization **S**ervice|Java, security
-JATS|**J**ournal **A**rticle **T**ag **S**uite| 
-JAX-RPC|**J**ava **A**PI for XML-based **RPC**| 
+JATS|**J**ournal **A**rticle **T**ag **S**uite|XML
+JAX-RPC|**J**ava **A**PI for XML-based **RPC**|Java
 JAX-RS|**J**ava **A**PI for **R**ESTful Web **S**ervices https://jax-rs-spec.java.net/| 
 JAX-WS|**J**ava **A**PI for **X**ML **W**eb **S**ervices https://jax-ws.java.net/| 
-JAXB|**J**ava **A**rchitecture for **X**ML **B**inding| 
-JAXP|**J**ava **A**PI for **X**ML **P**rocessing (or Parsing) (formerly TrAX)| 
+JAXB|**J**ava **A**rchitecture for **X**ML **B**inding|Java<br>XML
+JAXP|**J**ava **A**PI for **X**ML **P**rocessing (or Parsing) (formerly TrAX)|Java<br>XML
+JCA|**J**ava **C**ryptography **A**rchitecture<br>https://docs.oracle.com/javase/8/docs/technotes/guides/security/crypto/CryptoSpec.html|
 JCP|**J**ava **C**ommunity **P**rocess<br>https://jcp.org/en/introduction/overview|
 JEE|**J**ava **E**nterprise **E**dition|
 JMS|**J**ava **M**essage **S**ervice| 
@@ -188,27 +194,27 @@ NoSQL|**N**ot-**o**nly **SQL** |
 
 Acronym |Meaning |Context
 --------|--------|-------
-OASIS|Organization for the Advancement of Structured Information Standards (https://www.oasis-open.org)| 
-OEM|Original Equipment Manufacturer| 
-OLAP|Online Analytical Processing| 
-OMG|Object Management Group  (http://www.omg.org/)|
-|Oh My God|Chat
-OOTB|Out-Of-The-Box| 
-ORPC|Object Remote Procedure Call| 
+OASIS|**O**rganization for the **A**dvancement of **S**tructured **I**nformation **S**tandards (https://www.oasis-open.org)| 
+OEM|**O**riginal **E**quipment **M**anufacturer| 
+OLAP|**O**n**l**ine **A**nalytical **P**rocessing| 
+OMG|**O**bject **M**anagement **G**roup  (http://www.omg.org/)|
+|**O**h **M**y **G**od|Chat
+OOTB|**O**ut-**O**f-**T**he-**B**ox| 
+ORPC|**O**bject **R**emote **P**rocedure **C**all| 
 OSI|**O**pen **S**ystems **I**nterconnection|Networks
-OSGi|Open Services Gateway initiative (http://www.osgi.org)| 
+OSGi|**O**pen **S**ervices **G**ateway **i**nitiative (http://www.osgi.org)| 
 
 # P
 
 Acronym |Meaning |Context
 --------|--------|-------
-PAO|Publication Assistée par Ordinateur <br> (en) DTP| 
-PDM|Product Data Management <br> (fr) SGDT| 
-PGI|Progiciel de Gestion Intégré <br> (en) ERP| 
-PIF|Process Interchange Format| 
-PIM|Product Information Management| 
-POC|Proof of Concept| 
-POJO|Plain Old Java Object| 
+PAO|**P**ublication **A**ssistée par **O**rdinateur <br> (en) DTP| 
+PDM|**P**roduct **D**ata **M**anagement <br> (fr) SGDT| 
+PGI|**P**rogiciel de **G**estion **I**ntégré <br> (en) ERP| 
+PIF|**P**rocess **I**nterchange **F**ormat| 
+PIM|**P**roduct **I**nformation **M**anagement| 
+POC|**P**roof **o**f **C**oncept| 
+POJO|**P**lain **O**ld **J**ava **O**bject|Java
 
 # Q
 
@@ -220,42 +226,44 @@ QTI|**Q**uestion and **T**est **I**nteroperability (http://www.imsglobal.org/que
 
 Acronym |Meaning |Context
 --------|--------|-------
-RACI|**R**esponsible/**A**ccountable/**C**onsulted/**I**nformation|Mngmt
-RDBMS|Relational DataBase Management System <br>(fr) SGBDR| 
-RDF|Resource Description Framework| 
-RDP|Remote Desktop Protocol| 
+RACI|**R**esponsible/**A**ccountable/**C**onsulted/**I**nformation|Management jargon
+RDBMS|**R**elational **D**ata**B**ase **M**anagement **S**ystem <br>(fr) SGBDR| 
+RDF|**R**esource **D**escription **F**ramework|XML
+RDP|**R**emote **D**esktop **P**rotocol| 
 REST|**RE**presentational **S**tate **T**ransfer| 
-RMI|Remote Method Invocation| 
-RPC|Remote Procedure Call| 
-RSS|Rich Site Summary| 
+RMI|**R**emote **M**ethod **I**nvocation| 
+RPC|**R**emote **P**rocedure **C**all| 
+RSS|**R**ich **S**ite **S**ummary| 
 
 # S
 
 Acronym |Meaning |Context
 --------|--------|-------
-SAAJ|SOAP with Attachments API for Java| 
-SAML|Security Assertion Markup Language| 
-SAX|Simple API for XML http://www.saxproject.org/| 
-SCM|Source Control Management| 
-SCORM|Sharable Content Object Reference Model| 
-SEO|Search Engine Optimization| 
-SGBD(R)|Système de Gestion de Base de Données (Relationnelle)| 
-SGC|Système de Gestion de Contenu<br>(en) CMS| 
-SGDT|Système de Gestion de Données Techniques<br>(en) PDM| 
-SGML|Standard Generalized Markup Language| 
-SIG|Système d'Information Géographique <br>(en) GIS| 
-SLA|Service Level Agreements| 
-SMART|Specific, Measurable, Achievable, Relevant, Time-boxed| 
-SME|Subject Matter Expert <br>(fr) Expert Métier| 
-SMIL|Synchronized Multimedia Integration Language| 
-SOAP|Simple Object Access Protocol (sometimes : Service Oriented Architecture Protocol) | 
-SOW|Statement Of Work|
+SAAJ|**S**OAP with **A**ttachments **A**PI for **J**ava| 
+SaaS|**S**oftware **a**s **a** **S**ervice
+SAML|**S**ecurity **A**ssertion **M**arkup ****L**anguage|Security<br>XML
+SAX|**S**imple **A**PI for **X**ML http://www.saxproject.org/| 
+SCM|**S**ource **C**ontrol **M**anagement| 
+SCORM|**S**harable **C**ontent **O**bject **R**eference **M**odel| 
+SEO|**S**earch **E**ngine **O**ptimization| 
+SGBD(R)|**S**ystème de **G**estion de **B**ase de **D**onnées (**R**elationnelle)<br>(en) RDBMS| 
+SGC|**S**ystème de **G**estion de **C**ontenu<br>(en) CMS| 
+SGDT|**S**ystème de **G**estion de **D**onnées **T**echniques<br>(en) PDM| 
+SGML|**S**tandard **G**eneralized **M**arkup **L**anguage| 
+SIG|**S**ystème d'**I**nformation **G**éographique <br>(en) GIS| 
+SLA|**S**ervice **L**evel **A**greements| 
+SMART|**S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**ime-boxed|Management jargon
+SME|**S**ubject **M**atter **E**xpert <br>(fr) Expert Métier| 
+SMIL|**S**ynchronized **M**ultimedia **I**ntegration **L**anguage| 
+SOAP|**S**imple **O**bject **A**ccess **P**rotocol (sometimes : Service Oriented Architecture Protocol) | 
+SOW|**S**tatement **O**f **W**ork|
+SPA|**S**ingle **P**age **A**pplication|Web
 SQL|**S**tructured **Q**uery **L**anguage|Databases 
-SSO|Single Sign-On|Security
-StAX|Streaming API for XML|XML
-StratML|Strategy Markup Language (http://xml.fido.gov/stratml/index.htm)| 
-SWOT|Strengths, Weaknesses, Opportunities, Threats|Management jargon
-SysML|System Modeling Language (derived from UML)| 
+SSO|**S**ingle **S**ign-**O**n|Security
+StAX|**St**reaming **A**PI for **X**ML|XML
+StratML|**Strat**egy **M**arkup **L**anguage (http://xml.fido.gov/stratml/index.htm)| 
+SWOT|**S**trengths, **W**eaknesses, **O**pportunities, **T**hreats|Management jargon
+SysML|**Sys**tem **M**odeling **L**anguage (derived from UML)| 
 
 # T
 
@@ -299,7 +307,7 @@ WMS|**W**arehouse **M**anagement **S**ystem |
 WOFF|**W**eb **O**pen **F**ont **F**ormat| 
 WSDL|**W**eb **S**ervice **D**efinition **L**anguage| 
 WSIT|**W**eb **S**ervices **I**nteroperability **T**echnologies| 
-WTF|**W**hat **T**he **F*****|Chat
+WTF|**W**hat **T**he **F**\*\*\*|Chat
 
 # X
 
