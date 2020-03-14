@@ -144,6 +144,7 @@ JAX-WS|**J**ava **A**PI for **X**ML **W**eb **S**ervices https://jax-ws.java.net
 JAXB|**J**ava **A**rchitecture for **X**ML **B**inding|Java<br>XML
 JAXP|**J**ava **A**PI for **X**ML **P**rocessing (or Parsing) (formerly TrAX)|Java<br>XML
 JCA|**J**ava **C**ryptography **A**rchitecture<br>https://docs.oracle.com/javase/8/docs/technotes/guides/security/crypto/CryptoSpec.html|
+JCE|**J**ava **C**ryptography **E**xtension|Java, security
 JCP|**J**ava **C**ommunity **P**rocess<br>https://jcp.org/en/introduction/overview|
 JEE|**J**ava **E**nterprise **E**dition|
 JMS|**J**ava **M**essage **S**ervice| 
@@ -173,6 +174,7 @@ LSP|**L**anguage **S**ervices **P**rovider|
 
 Acronym |Meaning |Context
 --------|--------|-------
+MAC|**M**essage **A**uthentication **C**ode|
 MDM|**M**aster **D**ata **M**anagement| 
 MITM|**M**an-**I**n-**T**he-**M**iddle|
 ML|**M**achine **L**earning|
@@ -198,7 +200,7 @@ OASIS|**O**rganization for the **A**dvancement of **S**tructured **I**nformation
 OEM|**O**riginal **E**quipment **M**anufacturer| 
 OLAP|**O**n**l**ine **A**nalytical **P**rocessing| 
 OMG|**O**bject **M**anagement **G**roup  (http://www.omg.org/)|
-|**O**h **M**y **G**od|Chat
+"|**O**h **M**y **G**od|Chat
 OOTB|**O**ut-**O**f-**T**he-**B**ox| 
 ORPC|**O**bject **R**emote **P**rocedure **C**all| 
 OSI|**O**pen **S**ystems **I**nterconnection|Networks
